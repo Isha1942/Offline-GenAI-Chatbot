@@ -1,0 +1,5 @@
+smollm2_model/
+__pycache__/
+*.pyc
+venv/
+.ipynb_checkpoints/

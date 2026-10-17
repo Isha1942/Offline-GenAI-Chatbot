@@ -42,4 +42,4 @@ Bot: ...
 - It runs on CPU, so answers take a few seconds
 
 ## Credits
-Model: [HuggingFaceTB/SmolLM2-360M-Instruct](https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct) (pre-trained, not trained by me).
+Course project (Generative AI module, IT Roots) using the pre-trained SmolLM2-360M-Instruct model by Hugging Face.
